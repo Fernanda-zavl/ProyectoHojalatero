@@ -17,6 +17,13 @@ public class Principal {
 		 float precio;
 		 int existencia, menPrinc;
 		 
+		 //cmabios hub
+		 int valor1 =0;
+		 int resultador =valor1*25;
+		 System.out.println("reultado " + resultador);
+				 
+		//cambios hub
+		 
 		 Llantas llanta;
 		 
 		 LogicaMetodos imp = new LogicaMetodos();
